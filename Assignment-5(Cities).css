@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Rowdies', cursive;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    text-align: justify;
+    margin-left:500px;
+    margin-top: 10rem;
+    font-size: 2rem;
+    font-family: 'Didact Gothic', sans-serif;
+}
+a{
+    text-decoration: none;
+    color:#947394;
+    font-style: italic;
+}
+a:visited{
+    text-decoration: none;
+}
+
+body{
+ background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://img.freepik.com/free-photo/yellow-grungy-wall-textured-background_53876-167332.jpg?w=740&t=st=1672997045~exp=1672997645~hmac=2300893ac65eb8b4cf66a2bb69fd6806a783b76f4ef5a8077bbd992c7dd86897');
+}
